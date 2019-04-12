@@ -1,0 +1,1 @@
+build_darwin/bin/blender.app/Contents/MacOS/blender filter=lfs diff=lfs merge=lfs -text
