@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../lib/libbf_intern_memutil.a  CMakeFiles/bf_intern_memutil.dir/intern/MEM_CacheLimiterC-Api.cpp.o CMakeFiles/bf_intern_memutil.dir/intern/MEM_RefCountedC-Api.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../lib/libbf_intern_memutil.a

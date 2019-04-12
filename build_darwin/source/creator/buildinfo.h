@@ -1,0 +1,5 @@
+#define BUILD_HASH "d1cda823e0a8"
+#define BUILD_COMMIT_TIMESTAMP 1555004586
+#define BUILD_BRANCH "master"
+#define BUILD_DATE "2019-04-12"
+#define BUILD_TIME "15:18:09"

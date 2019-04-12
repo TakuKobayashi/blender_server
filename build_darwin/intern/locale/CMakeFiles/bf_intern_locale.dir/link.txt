@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../lib/libbf_intern_locale.a  CMakeFiles/bf_intern_locale.dir/boost_locale_wrapper.cpp.o CMakeFiles/bf_intern_locale.dir/osx_user_locale.mm.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../lib/libbf_intern_locale.a

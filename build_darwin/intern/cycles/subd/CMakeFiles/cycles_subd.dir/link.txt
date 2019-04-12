@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../../lib/libcycles_subd.a  CMakeFiles/cycles_subd.dir/subd_dice.cpp.o CMakeFiles/cycles_subd.dir/subd_patch.cpp.o CMakeFiles/cycles_subd.dir/subd_split.cpp.o CMakeFiles/cycles_subd.dir/subd_patch_table.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../../lib/libcycles_subd.a

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../../../lib/libbf_editor_space_buttons.a  CMakeFiles/bf_editor_space_buttons.dir/buttons_context.c.o CMakeFiles/bf_editor_space_buttons.dir/buttons_ops.c.o CMakeFiles/bf_editor_space_buttons.dir/buttons_texture.c.o CMakeFiles/bf_editor_space_buttons.dir/space_buttons.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../../../lib/libbf_editor_space_buttons.a

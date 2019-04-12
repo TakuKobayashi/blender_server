@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../lib/libbf_intern_mikktspace.a  CMakeFiles/bf_intern_mikktspace.dir/mikktspace.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../lib/libbf_intern_mikktspace.a

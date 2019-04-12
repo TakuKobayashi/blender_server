@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kobayashi/workspace/project/blender/extern/cuew/include/cuew.h
+stdlib.h
+-
+stdint.h
+-
+
+/Users/kobayashi/workspace/project/blender/extern/cuew/src/cuew.c
+cuew.h
+-
+assert.h
+-
+stdio.h
+-
+string.h
+-
+sys/stat.h
+-
+windows.h
+-
+dlfcn.h
+-
+

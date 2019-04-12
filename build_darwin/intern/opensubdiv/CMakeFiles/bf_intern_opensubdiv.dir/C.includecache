@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kobayashi/workspace/project/build_darwin/intern/opensubdiv/shader/gpu_shader_opensubdiv_fragment.glsl.c
+
+/Users/kobayashi/workspace/project/build_darwin/intern/opensubdiv/shader/gpu_shader_opensubdiv_geometry.glsl.c
+
+/Users/kobayashi/workspace/project/build_darwin/intern/opensubdiv/shader/gpu_shader_opensubdiv_vertex.glsl.c
+

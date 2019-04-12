@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../../lib/libcycles_graph.a  CMakeFiles/cycles_graph.dir/node.cpp.o CMakeFiles/cycles_graph.dir/node_type.cpp.o CMakeFiles/cycles_graph.dir/node_xml.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../../lib/libcycles_graph.a

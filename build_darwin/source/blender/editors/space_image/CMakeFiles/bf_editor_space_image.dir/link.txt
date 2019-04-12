@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../../../lib/libbf_editor_space_image.a  CMakeFiles/bf_editor_space_image.dir/image_buttons.c.o CMakeFiles/bf_editor_space_image.dir/image_draw.c.o CMakeFiles/bf_editor_space_image.dir/image_edit.c.o CMakeFiles/bf_editor_space_image.dir/image_ops.c.o CMakeFiles/bf_editor_space_image.dir/space_image.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../../../lib/libbf_editor_space_image.a

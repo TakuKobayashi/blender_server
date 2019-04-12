@@ -1,0 +1,11 @@
+OpenShadingLanguage 1.00
+# Compiled by oslc 1.9.9
+# options: -q -O2 -I/Users/kobayashi/workspace/project/blender/intern/cycles/kernel/shaders -o /Users/kobayashi/workspace/project/build_darwin/intern/cycles/kernel/shaders/node_output_volume.oso
+volume node_output_volume
+param	closure color	Volume			%read{0,0} %write{2147483647,-1}
+global	closure color	Ci	%read{2147483647,-1} %write{0,0}
+code ___main___
+# /Users/kobayashi/workspace/project/blender/intern/cycles/kernel/shaders/node_output_volume.osl:21
+# 	Ci = Volume;
+	assign		Ci Volume 	%filename{"/Users/kobayashi/workspace/project/blender/intern/cycles/kernel/shaders/node_output_volume.osl"} %line{21} %argrw{"wr"}
+	end

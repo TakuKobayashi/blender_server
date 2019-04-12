@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/bf_editor_interface.dir/interface.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_align.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_anim.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_context_menu.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_draw.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_eyedropper.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_eyedropper_color.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_eyedropper_colorband.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_eyedropper_datablock.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_eyedropper_depth.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_eyedropper_driver.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_handlers.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_icons.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_icons_event.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_layout.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_ops.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_panel.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_query.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_region_color_picker.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_region_hud.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_region_menu_pie.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_region_menu_popup.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_region_popover.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_region_popup.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_region_search.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_region_tooltip.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_regions.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_style.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_templates.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_utils.c.o"
+  "CMakeFiles/bf_editor_interface.dir/interface_widgets.c.o"
+  "CMakeFiles/bf_editor_interface.dir/resources.c.o"
+  "CMakeFiles/bf_editor_interface.dir/view2d.c.o"
+  "CMakeFiles/bf_editor_interface.dir/view2d_ops.c.o"
+  "../../../../lib/libbf_editor_interface.pdb"
+  "../../../../lib/libbf_editor_interface.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/bf_editor_interface.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

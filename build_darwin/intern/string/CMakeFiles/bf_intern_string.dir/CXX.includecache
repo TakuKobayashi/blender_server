@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kobayashi/workspace/project/blender/intern/string/STR_String.h
+vector
+-
+limits.h
+-
+cstring
+-
+cstdlib
+-
+MEM_guardedalloc.h
+/Users/kobayashi/workspace/project/blender/intern/string/MEM_guardedalloc.h
+
+/Users/kobayashi/workspace/project/blender/intern/string/intern/STR_String.cpp
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+STR_String.h
+/Users/kobayashi/workspace/project/blender/intern/string/intern/STR_String.h
+

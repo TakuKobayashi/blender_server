@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../lib/libbf_intern_guardedalloc.a  CMakeFiles/bf_intern_guardedalloc.dir/intern/mallocn.c.o CMakeFiles/bf_intern_guardedalloc.dir/intern/mallocn_guarded_impl.c.o CMakeFiles/bf_intern_guardedalloc.dir/intern/mallocn_lockfree_impl.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../lib/libbf_intern_guardedalloc.a

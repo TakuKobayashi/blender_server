@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../../lib/libbf_ikplugin.a  CMakeFiles/bf_ikplugin.dir/intern/ikplugin_api.c.o CMakeFiles/bf_ikplugin.dir/intern/iksolver_plugin.c.o CMakeFiles/bf_ikplugin.dir/intern/itasc_plugin.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../../lib/libbf_ikplugin.a

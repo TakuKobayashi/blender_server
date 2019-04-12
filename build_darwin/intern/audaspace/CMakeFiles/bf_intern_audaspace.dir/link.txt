@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../lib/libbf_intern_audaspace.a  CMakeFiles/bf_intern_audaspace.dir/intern/AUD_Set.cpp.o CMakeFiles/bf_intern_audaspace.dir/intern/AUD_PyInit.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../lib/libbf_intern_audaspace.a
