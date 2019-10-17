@@ -14,10 +14,10 @@ open -a blender.app --args --background --python render.py
 blender本家のサイトからblenderのソースコードを持ってくる
 
 [Blender Git](https://git.blender.org/gitweb/)
-Gitのリポジトリとしてcloneするにはこうする
+Gitのリポジトリからsubmoduleも一緒にcloneするにはこうする(```--recursive``` をつける)
 
 ```sh
-git clone https://git.blender.org/blender.git
+git clone https://git.blender.org/blender.git --recursive
 ```
 
 ### Blenderのビルド
