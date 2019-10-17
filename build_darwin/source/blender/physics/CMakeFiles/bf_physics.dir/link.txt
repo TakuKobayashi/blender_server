@@ -1,2 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../../lib/libbf_physics.a  CMakeFiles/bf_physics.dir/intern/BPH_mass_spring.cpp.o CMakeFiles/bf_physics.dir/intern/hair_volume.cpp.o CMakeFiles/bf_physics.dir/intern/implicit_blender.c.o CMakeFiles/bf_physics.dir/intern/implicit_eigen.cpp.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../../lib/libbf_physics.a

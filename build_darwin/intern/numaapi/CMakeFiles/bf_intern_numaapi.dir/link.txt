@@ -1,2 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../lib/libbf_intern_numaapi.a  CMakeFiles/bf_intern_numaapi.dir/source/numaapi.c.o CMakeFiles/bf_intern_numaapi.dir/source/numaapi_linux.c.o CMakeFiles/bf_intern_numaapi.dir/source/numaapi_stub.c.o CMakeFiles/bf_intern_numaapi.dir/source/numaapi_win32.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../lib/libbf_intern_numaapi.a

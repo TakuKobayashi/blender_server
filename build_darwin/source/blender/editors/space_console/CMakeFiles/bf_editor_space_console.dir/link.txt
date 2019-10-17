@@ -1,2 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar Scr ../../../../lib/libbf_editor_space_console.a  CMakeFiles/bf_editor_space_console.dir/console_draw.c.o CMakeFiles/bf_editor_space_console.dir/console_ops.c.o CMakeFiles/bf_editor_space_console.dir/space_console.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c ../../../../lib/libbf_editor_space_console.a
