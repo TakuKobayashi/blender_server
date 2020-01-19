@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 fake-bpy-module-2-80 = "*"
+flask = "*"
 
 [requires]
 python_version = "3.7"
