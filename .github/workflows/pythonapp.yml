@@ -1,0 +1,36 @@
+name: Blender install and execute screenshot
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: setup ubuntu
+      run: |
+        sudo apt --quiet update --yes
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: install blender
+      run: |
+        sudo apt install --yes blender blender-data
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pipenv
+    - name: pipenv install and sync
+      run: |
+        pipenv install
+        pipenv sync
+    - name: render screenshot
+      run: |
+        blender --background --python render_screenshot.py
+    - uses: actions/upload-artifact@master
+      with:
+        name: screenshot
+        path: image.png
