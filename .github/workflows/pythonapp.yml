@@ -12,7 +12,6 @@ jobs:
     - name: setup ubuntu
       run: |
         sudo apt --quiet update --yes
-        sudo apt --quiet upgrade --yes
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
