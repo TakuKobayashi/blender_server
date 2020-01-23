@@ -18,8 +18,8 @@ jobs:
         python-version: 3.7
     - name: install blender
       run: |
-        sudo apt install -y blender blender-data
-        blender
+        sudo apt install --yes blender blender-data
+        blender -v
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
