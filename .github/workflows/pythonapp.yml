@@ -9,10 +9,17 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+    - name: setup ubuntu
+      run: |
+        sudo apt --quiet update --yes
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
+    - name: install blender
+      run: |
+        sudo apt install -y blender blender-data
+        blender
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
