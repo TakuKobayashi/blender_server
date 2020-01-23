@@ -1,4 +1,4 @@
-name: Python application
+name: Blender install and execute screenshot
 
 on: [push]
 
